@@ -1,0 +1,55 @@
+{
+ "label": {
+  "TRUE": 37800,
+  "Fake": 18914
+ },
+ "category": {
+  "GOVERNMENT": 10923,
+  "VIOLENCE": 10578,
+  "COVID-19": 8710,
+  "POLITICS": 8670,
+  "ELECTION": 8396,
+  "TERROR": 4384,
+  "MISLEADING": 4059,
+  "TRAD": 976,
+  "MISLEADIND": 18
+ },
+ "category_label": {
+  "COVID-19": [
+   2790,
+   5920
+  ],
+  "ELECTION": [
+   109,
+   8287
+  ],
+  "GOVERNMENT": [
+   3606,
+   7317
+  ],
+  "MISLEADIND": [
+   18,
+   0
+  ],
+  "MISLEADING": [
+   4059,
+   0
+  ],
+  "POLITICS": [
+   3222,
+   5448
+  ],
+  "TERROR": [
+   0,
+   4384
+  ],
+  "TRAD": [
+   146,
+   830
+  ],
+  "VIOLENCE": [
+   4964,
+   5614
+  ]
+ }
+}
